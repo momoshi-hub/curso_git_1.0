@@ -2,7 +2,16 @@ testando repo
 git Udemy
 Bussines
 12
+<<<<<<< HEAD
 a
 B
 c
 d
+=======
+1
+1
+2
+3
+4
+5
+>>>>>>> 1_primeiro_branch
